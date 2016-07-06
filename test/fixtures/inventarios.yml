@@ -1,11 +1,16 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  numero_de_serie: MyString
-  tamano_rueda: 1
-  descripcion: MyString
+  numero_de_serie: 15llanta
+  tamano_rueda: 15
+  descripcion: Llanta de 15"
 
 two:
-  numero_de_serie: MyString
-  tamano_rueda: 1
-  descripcion: MyString
+  numero_de_serie: 18llanta
+  tamano_rueda: 18
+  descripcion: Llanta de 18"
+
+three:
+  numero_de_serie: 15llanta
+  tamano_rueda: 22
+  descripcion: Llanta de 22"

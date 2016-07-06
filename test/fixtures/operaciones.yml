@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  operador: cambio_llanta
+  descripcion: Cambiar llanta
+
+two:
+  operador: inflar_llanta
+  descripcion: Inflar llanta
+
+three:
+  operador: parchar_llantas
+  descripcion: Parchar llantas
