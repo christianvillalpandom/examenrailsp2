@@ -1,7 +1,12 @@
 require 'test_helper'
 
 class InventarioTest < ActiveSupport::TestCase
-  # test "the truth" do
-  #   assert true
-  # end
+  
+  test "Item de Inventario = Operacion" do
+
+     item_inventario = inventarios(:one)
+     assert item_inventario.save
+
+ 	end
+
 end
