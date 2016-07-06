@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: Juan Andres
+  mail: jan@gmail.com
+
+two:
+  nombre: Pedro Mendoza
+  mail: pam@gmail.com
